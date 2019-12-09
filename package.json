@@ -2,5 +2,8 @@
   "name": "dive-checker",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "tsc": "node ./TypeScript/built/local/tsc.js"
+  }
 }
